@@ -41,3 +41,6 @@ function getAverage() {
 
     return result / arguments.length ;
 }// 이런 식으로 매개변수 수를 동적으로 관리 
+
+
+// 자바스크립트 private ?? 있나?
